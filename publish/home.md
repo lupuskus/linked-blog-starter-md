@@ -24,3 +24,5 @@ Here is an example of how I [forked this repo](https://github.com/fleetingnotes/
 ![[fn-website-demo.gif]]
 
 
+## Link to a new file
+- [[new-file]]
